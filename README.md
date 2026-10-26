@@ -37,3 +37,6 @@ Hey, I'm Sabit. I study Computing Science at the University of Alberta with a fo
 
 <a href="mailto:tasfi@ualberta.ca"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg"><img alt="tasfi@ualberta.ca" src="assets/footer-light.svg" width="100%"></picture></a>
 
+<p align="center"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=tasfikamali-rgb&label=PROFILE%20VIEWS&color=275D38&style=flat-square"></p>
+
+
