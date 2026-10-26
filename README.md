@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg"><img alt="Sabit Kamali Tasfi. Computing Science, artificial intelligence, University of Alberta. An animated A* search runs across a grid." src="assets/header-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-ua-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/header-ua-light.svg"><img alt="Sabit Kamali Tasfi. Computing Science, artificial intelligence, University of Alberta. An animated A* search runs across a grid." src="assets/header-ua-light.svg" width="100%"></picture>
 
 Hey, I'm Sabit. I study Computing Science at the University of Alberta with a focus on artificial intelligence, and I like building things people actually touch: an Android app that makes packed event sign ups fair, APIs that come up cleanly in a container, and this term a learning platform for a food rescue company as part of my capstone. Outside of class I work retail in Edmonton, which teaches you a lot about real users, fast.
 
