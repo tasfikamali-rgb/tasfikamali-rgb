@@ -35,6 +35,12 @@ Hey, I'm Sabit. I study Computing Science at the University of Alberta with a fo
 
 <br>
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/sec5-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/sec5-light.svg"><img alt="05 This year, live" src="assets/sec5-light.svg" width="100%"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/contrib-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/contrib-light.svg"><img alt="Contributions this year, including private course and client repositories. Refreshed every 30 minutes." src="assets/contrib-light.svg" width="100%"></picture>
+
+<br>
+
 <a href="mailto:tasfi@ualberta.ca"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg"><img alt="tasfi@ualberta.ca" src="assets/footer-light.svg" width="100%"></picture></a>
 
 <p align="center"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=tasfikamali-rgb&label=PROFILE%20VIEWS&color=275D38&style=flat-square"></p>
